@@ -13,6 +13,7 @@ h2{
 
     font-weight:bolder;
     color:darkslategray;
+    font-size: 25px;
 }
 
 .quote{
@@ -22,4 +23,8 @@ h2{
 
 hr{
     border-style: none;
+}
+
+p{
+    font-size: smaller;
 }
