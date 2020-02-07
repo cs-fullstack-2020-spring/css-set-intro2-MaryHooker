@@ -1,12 +1,12 @@
 .date{
 
-    color:lightskyblue
+    color:lightskyblue;
 }
 
 html{
-    border:lightgrey solid 20px;
-    margin: 30px 250px 0px 250px;
-    padding: 20px;
+    border:lightslategrey solid 20px;
+    margin: 2% 20% 2% 20%;
+    padding: 2%;
     
 }
 
@@ -19,11 +19,13 @@ h2{
 
 .quote{
 
-    border-left: solid lightslategray;
+    border-left: solid lightslategray 4px;
+    padding-left: 10px;
 }
 
 hr{
     border-style: none;
+    display: none;
 }
 
 p{
